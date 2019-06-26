@@ -1,3 +1,3 @@
-# Rocketseat Bootcamp GoStack - Challenge #1
+# Bootcamp GoStack - Desafio 01
 
 Small Node.js app for studying purposes.
